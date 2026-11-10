@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.odu.cs.cs350","l":"Section"},{"p":"edu.odu.cs.cs350","l":"SemesterSnapshots"},{"p":"edu.odu.cs.cs350","l":"SnapshotCsv"},{"p":"edu.odu.cs.cs350","l":"SummaryDemo"},{"p":"edu.odu.cs.cs350","l":"SummaryReport"}];updateSearchResults();
